@@ -1,0 +1,16 @@
+{
+	"name": "系統介面",
+	"short_name": "系統介面",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/載入中(新)_1.png",
+			"sizes": "625x625",
+			"type": "image/png"
+		}
+	]
+}
